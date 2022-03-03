@@ -5,3 +5,6 @@
 💞️ I am looking to collaborate on every project I find. I'm open to learning new technologies and mastering new skills.
 
 📫 If you want to contact me, send an email to darlaczi.zoltan@gmail.com
+
+📫 LinkedIn profile: https://www.linkedin.com/in/darlaczi-zoltan-81a216204/
+
