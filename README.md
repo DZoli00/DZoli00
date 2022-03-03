@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @DZoli00
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-DZoli00/DZoli00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Zoltan Darlaczi. I'm a computer science student at Techinval University of Cluj-Napoca.
+- 👀 I’m interested in programming and help people to solve their problems.
+- 💞️ I’m looking to collaborate on every project I find. 
+- 📫 If you want to contact me, just send an email to: darlaczi.zoltan@gmail.com
